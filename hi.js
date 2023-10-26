@@ -1,3 +1,3 @@
 console.log("hi")
 console.log("newnew")
-prompt("Insert a number: ");
+let a = prompt("Insert a alphabet: ")
